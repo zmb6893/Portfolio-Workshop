@@ -1,0 +1,45 @@
+.navbar {
+	position: fixed;
+  	width: 100%;
+  	top: 0;
+	z-index: 10;
+}
+
+.horizontally-center {
+	text-align: center;
+	display: flex;
+	width: 100%
+}
+
+.horizontal {
+	margin: auto;
+	display: flex;
+}
+
+.card {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+.main-content {
+	margin: 0rem 5rem;
+}
+
+.custom-color {
+	background-color: rgb(48, 207, 162);
+}
+
+.profile-pic {
+	border-radius: 20rem;
+	height: 10rem;
+	width: 10rem;
+	margin-right: 3rem;
+}
+
+.section {
+	padding-top: 5rem;
+}
+
+.technologies {
+	padding-bottom: 1rem;
+}
